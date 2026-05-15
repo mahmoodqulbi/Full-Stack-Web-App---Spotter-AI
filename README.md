@@ -65,4 +65,9 @@ Returns route geometry, summary statistics, and day-by-day HOS logs.
 - **Backend**: Can be deployed to Render/Railway. Set `SECRET_KEY`, `DEBUG=False`, and `ALLOWED_HOSTS`.
 
 ---
+## Screenshots 
+
+<img width="1918" height="1016" alt="image" src="https://github.com/user-attachments/assets/6cf640fd-77ae-4ddd-bf3c-29448ee938d9" />
+
+<img width="1918" height="967" alt="image" src="https://github.com/user-attachments/assets/f1d897ba-9e16-499a-9943-e8d3d73f4464" />
 
